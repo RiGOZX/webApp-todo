@@ -1,17 +1,22 @@
-# Webpack Starter
+# Todo App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este proyecto se enfoca en una plicación la cual es capaz de recibir tareas a realizar, marcarlas como completadas, como no realizadas o simplemente borrar las distintas tareas ingresadas, ya sean realizadas o no.
 
 ### Notas:
 
-Recuerda reconstruir los modulos de Node
+Es posible una cambio a nivel estetico futuro(css o utilización de alguna librería específica).
 
 ```
-npm install
+Este es tal vez el proyecto más complejo hasta el momento pero espero que al menos en complegidad no bajen de 
+esto los próximos que vengan.
 ```
 
-Y para construir el build, recuerda :
+Tecnologías utilizadas en este proyecto :
 
 ```
-npm run build
+-Javascript ES6
+-CSS
+-HTML
+-Webpack
+-Babel
 ```
